@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’ve spent a lot of time exploring and learning new things through technology. Many of my hobbies and interests have come from this journey. My main focus is web development, but I enjoy experimenting with other technologies as well.<br><br>Feel free to explore my repositories. I'm always open to collaborating on new ideas and connecting with others in the tech community.<br><br>Learn more about me [![Here](https://splash-nemo.github.io/portfolio_website/)]
+I’ve spent a lot of time exploring and learning new things through technology. Many of my hobbies and interests have come from this journey. My main focus is web development, but I enjoy experimenting with other technologies as well.<br><br>Feel free to explore my repositories. I'm always open to collaborating on new ideas and connecting with others in the tech community.<br><br>Learn more about me [!Here(https://splash-nemo.github.io/portfolio_website/)]
 
 
 ## 🌐 Socials:
