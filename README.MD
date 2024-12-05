@@ -1,7 +1,7 @@
 # 💫 About Me:
 I’ve spent a lot of time exploring and learning new things through technology. Many of my hobbies and interests have come from this journey. My main focus is web development, but I enjoy experimenting with other technologies as well.<br><br>Feel free to explore my repositories. I'm always open to collaborating on new ideas and connecting with others in the tech community.<br><br>Learn more about me [![Here]()](https://splash-nemo.github.io/portfolio_website/) <br>
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=#62cff4&height=300&section=header&text=Hi%20There&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=62cff4&height=300&section=header&text=Hi%20There&fontSize=90)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/aditya-pande-316b29217) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@ap457writes) 
